@@ -116,4 +116,4 @@ _The model is deployed in a minimalist website design. It is hosted on Heroku._
 
 
 <p align="center">
-Made with 💖 by Sarang</p>
+Made with 💖 by Aryan </p>
